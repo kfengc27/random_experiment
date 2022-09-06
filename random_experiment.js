@@ -1,4 +1,3 @@
-<script>
 var url_list = [
         "https://lab5-for-john.herokuapp.com/join/risaheke",
         "https://lab5-for-john.herokuapp.com/join/mepagagu",
@@ -8,4 +7,3 @@ var url_list = [
         "https://lab5-for-john.herokuapp.com/join/nusefeva"
 ]
 window.location.href = url_list[Math.floor(Math.random() * url_list.length)];
-</script>
